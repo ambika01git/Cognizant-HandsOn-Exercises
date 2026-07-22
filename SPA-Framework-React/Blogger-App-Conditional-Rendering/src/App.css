@@ -1,0 +1,30 @@
+body{
+  font-family: Arial;
+  margin:20px;
+}
+
+
+.st2{
+  border:2px solid black;
+  padding:15px;
+  margin:10px;
+}
+
+
+.v1{
+  border:2px solid blue;
+  padding:15px;
+  margin:10px;
+}
+
+
+.mystyle1{
+  border:2px solid green;
+  padding:15px;
+  margin:10px;
+}
+
+
+h1{
+  color:darkblue;
+}
