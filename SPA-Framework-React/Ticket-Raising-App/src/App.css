@@ -1,0 +1,40 @@
+body {
+
+  font-family: Arial;
+  margin: 30px;
+
+}
+
+
+input, textarea {
+
+  padding: 8px;
+  width: 250px;
+
+}
+
+
+button {
+
+  padding: 10px 25px;
+  background-color: blue;
+  color:white;
+  border:none;
+  border-radius:5px;
+  cursor:pointer;
+
+}
+
+
+button:hover {
+
+  background-color: darkblue;
+
+}
+
+
+h1 {
+
+  color: green;
+
+}
